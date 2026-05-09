@@ -494,38 +494,41 @@
 
         <div class="gallery">
 
-            <img src="https://images.unsplash.com/photo-1508804185872-d7badad00f7d">
+            <img
+                src="https://images.stockcake.com/public/8/9/b/89be02c4-429c-4680-a280-1811d526c809_medium/elegant-ballet-performance-stockcake.jpg">
 
-            <img src="https://images.unsplash.com/photo-1515169067868-5387ec356754">
+            <img
+                src="https://thumbs.dreamstime.com/b/shot-blue-background-light-spotlight-silhouette-dance-group-consisting-attractive-girls-299167247.jpg">
 
-            <img src="https://images.unsplash.com/photo-1504609813442-a8924e83f76e">
+            <img
+                src="https://media.istockphoto.com/id/2194832990/photo/hip-hop-dancer-dancing-in-a-cool-studio-with-neon-lights.jpg?s=612x612&w=0&k=20&c=Ois_JMpE_498K72e7oevbqa69HMxrSRZ2GY3OKDc9jo=">
 
-            <img src="https://images.unsplash.com/photo-1516280440614-37939bbacd81">
+            <img
+                src="https://media.istockphoto.com/id/490581749/photo/contemporary-dance.jpg?s=612x612&w=0&k=20&c=wiBmZ_zqEKWH-4eI21G06fzhAa6H3zFaxUfpKK0Dn-g=">
 
-            <img src="https://images.unsplash.com/photo-1499364615650-ec38552f4f34">
+            <img
+                src="https://media.istockphoto.com/id/1403710254/photo/image-of-tap-shoes-being-used-on-a-stage.jpg?s=612x612&w=0&k=20&c=ILd-25c1iwIExWdCImiPKFl4ZXdEckqmzyDutWl6f70=">
 
-            <img src="https://images.unsplash.com/photo-1501386761578-eac5c94b800a">
+            <img
+                src="https://media.istockphoto.com/id/518327264/photo/dramatic-argentinean-dance-couple-competing-in-tango-championships.jpg?s=612x612&w=0&k=20&c=g_1rB764LjI6uoonVznBq32FJJEeabDax5XAnyBD9BU=">
 
-            <img src="https://images.unsplash.com/photo-1508804185872-d7badad00f7d">
 
-            <img src="https://images.unsplash.com/photo-1515169067868-5387ec356754">
+            <img src="https://www.shutterstock.com/image-photo/two-energetic-young-women-casual-600nw-2597987683.jpg">
 
-            <img src="https://images.unsplash.com/photo-1508804185872-d7badad00f7d">
+            <img src="https://www.nruthyashakti.com/images/nsda-folk-dance-Mayilattam.jpg">
 
-            <img src="https://images.unsplash.com/photo-1515169067868-5387ec356754">
+            <img
+                src="https://media.istockphoto.com/id/1073638176/photo/couple-dancing-in-the-night.jpg?s=612x612&w=0&k=20&c=kCaU9jr5I-Jzc9P_ytTVBed90HmBa9jqWO4SibZp--Q=">
 
-            <img src="https://images.unsplash.com/photo-1504609813442-a8924e83f76e">
+            <img
+                src="https://images.pexels.com/photos/30332558/pexels-photo-30332558.jpeg?cs=srgb&dl=pexels-israyosoy-30332558.jpg&fm=jpg">
 
-            <img src="https://images.unsplash.com/photo-1516280440614-37939bbacd81">
+            <img
+                src="https://media.istockphoto.com/id/184951578/photo/beads-flying-on-bellydancers-belt.jpg?s=612x612&w=0&k=20&c=YRkjDE6BkwNp7FWxBPnCCGnaBjdBb31QnNVGiPQBF_U=">
 
-            <img src="https://images.unsplash.com/photo-1499364615650-ec38552f4f34">
+            <img src="https://c.files.bbci.co.uk/0338/production/_109642800_3f7a7888-11b4-42ad-8606-e9eae919d71d.jpg">
 
-            <img src="https://images.unsplash.com/photo-1501386761578-eac5c94b800a">
-
-            <img src="https://images.unsplash.com/photo-1499364615650-ec38552f4f34">
-
-            <img src="https://images.unsplash.com/photo-1501386761578-eac5c94b800a">
-
+        
 
         </div>
 
